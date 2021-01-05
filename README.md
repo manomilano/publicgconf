@@ -3,12 +3,12 @@
 just deleted the !disable line
 
 brew:
-brew tap User/my https://github.com/manomilano/publicgconf.git
+brew tap manomilano/mygc https://github.com/manomilano/publicgconf.git
 
 brew update
 
 brew search gconf
 
-> User/my/gconf ✔
+> manomilano/mygc/gconf ✔
 
-brew install User/my/gconf
+brew install manomilano/mygc/gconf
